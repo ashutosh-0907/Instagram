@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "183171561700",
+    "project_id": "instagram-clone-e1e51",
+    "storage_bucket": "instagram-clone-e1e51.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183171561700:android:9f15d7cb97b0a408d614f1",
+        "android_client_info": {
+          "package_name": "com.ashutosh.rai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmzoDOS-80Gv4-2zHRC0ZsZ8mkUIRLBHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183171561700:android:c8220f3680fb1587d614f1",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmzoDOS-80Gv4-2zHRC0ZsZ8mkUIRLBHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
